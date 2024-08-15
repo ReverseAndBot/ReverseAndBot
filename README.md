@@ -16,7 +16,8 @@
 - 📫 How to reach us:
 
   - X (former Twitter): ReverseAndBot - https://x.com/ReverseAndBot
-  - ...
+  - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
+  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot
 
 <!--
 - 😄 Pronouns: ...
