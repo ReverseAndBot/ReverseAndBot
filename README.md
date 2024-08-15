@@ -5,7 +5,7 @@
 - ⚡ We offer social media bots for
 
   - TruthSocial (based on the official internal TruthSocial API for iOS)
-  - Snapchat (based on the official internal Snapchat API for Android and iOS)
+  - Snapchat (based on the official internal Snapchat API for Android and iOS): https://github.com/ReverseAndBot/Snapchat-Bot/
 
 <!--
 - 🌱 I’m currently learning ...
