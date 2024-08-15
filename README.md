@@ -5,7 +5,7 @@
 - ⚡ We offer social media bots for
 
   - TruthSocial (based on the official internal TruthSocial API for iOS)
-  - ...
+  - Snapchat (based on the official internal Snapchat API for Android and iOS)
 
 <!--
 - 🌱 I’m currently learning ...
