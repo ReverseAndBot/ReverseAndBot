@@ -6,7 +6,8 @@
 
   - TruthSocial (based on the official internal TruthSocial API for iOS)
   - Snapchat (based on the official internal Snapchat API for Android and iOS): https://github.com/ReverseAndBot/Snapchat-Bot/
-  - more bots will follow soon (e. g. Tinder, TikTok, Bumble/Badoo etc.)
+  - Tinder (currently under development)
+  - more bots will follow soon (e. g. TikTok, Bumble/Badoo etc.)
 
 <!--
 - 🌱 I’m currently learning ...
