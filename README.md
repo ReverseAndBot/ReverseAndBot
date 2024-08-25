@@ -19,7 +19,9 @@
 
   - X (former Twitter): <!-- ReverseAndBot - https://x.com/ReverseAndBot -->
   - Telegram: ReverseEngineeringBHW - https://telegram.me/ReverseEngineeringBHW
-  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot
+  - GitLab: ReverseAndBot - https://gitlab.com/ReverseAndBot/Snapchat-Bot
+  - RapidAPI: ReverseAndBot - https://rapidapi.com/user/ReverseAndBot
+  - GitHub: ReverseAndBot - https://github.com/ReverseAndBot/Snapchat-Bot
 
 <!--
 - 😄 Pronouns: ...
