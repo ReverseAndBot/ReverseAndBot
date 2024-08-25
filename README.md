@@ -5,8 +5,8 @@
 - ⚡ We offer social media bots for
 
   - TruthSocial (based on the official internal TruthSocial API for iOS)
-  - Snapchat (based on the official internal Snapchat API for Android and iOS): https://github.com/ReverseAndBot/Snapchat-Bot/
-  - Tinder (currently under development)
+  - Snapchat (based on the official internal Snapchat API for Android and iOS): https://github.com/ReverseAndBot/Snapchat-Bot
+  - Tinder (based on the official internal Tinder API for iOS): https://github.com/ReverseAndBot/Tinder-Bot
   - more bots will follow soon (e. g. TikTok, Bumble/Badoo etc.)
 
 <!--
